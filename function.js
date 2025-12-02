@@ -5,3 +5,11 @@ function hello() {
 hello();
 hello();
 hello();
+
+function hello() {
+    console.log ("Hello Singapore")
+}
+
+hello()
+hello()
+hello()
