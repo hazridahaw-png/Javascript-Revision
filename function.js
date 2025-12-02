@@ -41,9 +41,9 @@ console.log (answer)
 console.log (addTwo(8,9))
 
 function addTwo(number1,number2){
-    let answer=number1+number2;
+    let answer=number1 + number2;
     return answer;
 
 }
-let answer=addTwo(4,5)
-console.log(answer)
+let answer=addTwo(4,5);
+console.log (answer)
