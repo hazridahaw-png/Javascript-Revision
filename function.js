@@ -30,10 +30,19 @@ hello3()
 hello3()
 hello3()
 
-function addTwo(number1,number2){
-    let answer=number1 + number2;
-    return answer;
 
+
+function hello(){
+    console.log("Have a Great Day Ahead!")
 }
-let answer=addTwo(4,5);
+
+hello()
+hello()
+hello()
+
+function addTwo (number1,number2){
+    let answer=number1+number2;
+    return answer
+}
+let answer=addTwo(3,4);
 console.log (answer)
