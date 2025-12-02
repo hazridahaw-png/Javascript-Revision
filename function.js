@@ -6,18 +6,26 @@ hello();
 hello();
 hello();
 
-function hello() {
+function hello1() {
     console.log ("Hello Singapore")
 }
 
-hello()
-hello()
-hello()
+hello1()
+hello1()
+hello1()
 
-function hello() {
+function hello2() {
     console.log("Hello X");
 }
 
-hello();
-hello();
-hello();
+hello2();
+hello2();
+hello2();
+
+function hello3(){
+    console.log("Hello Everyone! Good Morning!")
+}
+
+hello3()
+hello3()
+hello3()
