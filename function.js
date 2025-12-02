@@ -30,16 +30,6 @@ hello3()
 hello3()
 hello3()
 
-function addTwo(number1, number2){
-    let answer= number1 + number2;
-    return answer;
-}
-
-let answer= addTwo(6,7);
-console.log (answer)
-
-console.log (addTwo(8,9))
-
 function addTwo(number1,number2){
     let answer=number1 + number2;
     return answer;
