@@ -47,3 +47,9 @@ function addTwo (number1,number2){
 let answer=addTwo(3,4);
 console.log (answer)
 
+let a = "2";
+console.log(2+parseInt(a))
+
+let c ="3.14";
+console.log(2+Number(c))
+
