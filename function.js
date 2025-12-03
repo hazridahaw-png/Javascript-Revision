@@ -46,3 +46,4 @@ function addTwo (number1,number2){
 }
 let answer=addTwo(3,4);
 console.log (answer)
+
