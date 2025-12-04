@@ -53,3 +53,17 @@ console.log(2+parseInt(a))
 let c ="3.14";
 console.log(2+Number(c))
 
+let message = "Hi!";
+console.log (message);
+
+
+
+
+
+
+
+
+
+
+
+
